@@ -50,4 +50,7 @@ document.addEventListener('DomContentLoaded', () => {
             img: 'images/pizza.png'
         }       
     ]
+
+    //board creation
+    const grid =document.querySelector.apply('.grid')
 })
